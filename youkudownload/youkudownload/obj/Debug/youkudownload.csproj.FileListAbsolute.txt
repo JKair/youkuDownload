@@ -1,0 +1,12 @@
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\bin\Debug\youkudownload.exe.config
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\bin\Debug\youkudownload.exe
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\bin\Debug\youkudownload.pdb
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\obj\Debug\youkudownload.csprojResolveAssemblyReference.cache
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\obj\Debug\youkudownload.Form1.resources
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\obj\Debug\youkudownload.Properties.Resources.resources
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\obj\Debug\youkudownload.csproj.GenerateResource.Cache
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\obj\Debug\youkudownload.exe
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\obj\Debug\youkudownload.pdb
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\bin\Debug\Newtonsoft.Json.dll
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\bin\Debug\Newtonsoft.Json.xml
+E:\学校\大二\C编程\youkudownload\youkudownload\youkudownload\obj\Debug\youkudownload.About.resources
