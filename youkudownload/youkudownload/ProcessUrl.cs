@@ -95,7 +95,6 @@ namespace youkudownload
 
 
             downloadYouKuUrl = youkuFileUrl + sid + "_" + hexCurrentBlock + "/st/" + media_flage + "/fileid/" + newS + "?K=" + blocks_key;
-            MessageBox.Show(downloadYouKuUrl);
             return true;
         }
 
