@@ -27,5 +27,10 @@ namespace youkudownload
             System.Diagnostics.Process.Start("http://git.oschina.net/Kair/youkuDownload/tree/master/");
         }
 
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/JKair/youkuDownload");
+        }
+
     }
 }
